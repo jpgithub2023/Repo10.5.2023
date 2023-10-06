@@ -19,6 +19,8 @@ public class Str {
 		System.out.println(a.concat(" test"));
 		System.out.println("-------------------");
 		System.out.println("Hello again");
+		System.out.println("Hello once agin");
+		System.out.println("Hello third time");
 
 	}
 
