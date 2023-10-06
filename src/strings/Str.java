@@ -17,6 +17,7 @@ public class Str {
 		System.out.println(c);
 		System.out.println(c.charAt(c.length()-1));
 		System.out.println(a.concat(" test"));
+		System.out.println("-------------------");
 
 	}
 
